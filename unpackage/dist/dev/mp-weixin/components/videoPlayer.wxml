@@ -1,0 +1,1 @@
+<view class="videoPlayer"><video class="video" controls loop="{{true}}" src="{{video.src}}"></video></view>

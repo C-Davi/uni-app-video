@@ -1,0 +1,1 @@
+<view class="tab"><view class="tab-box">首页</view><view class="tab-box">关注</view><view class="tab-box"><view class="iconfont iconadd icon-box"></view></view><view class="tab-box">消息</view><view class="tab-box">我</view></view>
