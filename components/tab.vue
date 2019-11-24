@@ -27,6 +27,7 @@
 	position: fixed;
 	bottom: 0;
 	left: 0;
+	z-index: 21;
 }
 .tab-box{
 	float: left;
@@ -39,11 +40,11 @@
 }
 .icon-box{
 	width: 60%;
-	height: 30px;
+	height: 24px;
 	background: #FFFFFF;
 	color: #000000;
-	margin: 10px auto;
-	line-height: 30px;
+	margin: 14px 20%;
+	line-height: 24px;
 	border-radius: 5px;
 	font-size: 15px;
 }

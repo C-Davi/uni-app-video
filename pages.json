@@ -22,6 +22,7 @@
 		"list":[
 			{"pagePath":"pages/index/index"},
 			{"pagePath":"pages/follow/follow"}
+				
 		]
 	}
 }

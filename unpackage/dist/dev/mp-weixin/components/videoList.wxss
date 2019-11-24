@@ -1,19 +1,35 @@
 
 .videoList{
-	height: 100%;
 	width: 100%;
+	height: 100%;
+}
+.video{
+	width: 100%;
+	height: 100%;
 }
 .swiper-box{
-	height: 100%;
 	width: 100%;
+	height: 100%;
 }
 .swiper{
-	height: 100%;
 	width: 100%;
+	height: 100%;
 }
 .swiper-item{
-	height: 100%;
 	width: 100%;
+	height: 100%;
 	z-index: 19;
+}
+.left-box{
+	z-index: 20;
+	position: absolute;
+	bottom: 50px;
+	left: 10px;
+}
+.right-box{
+	z-index: 20;
+	position: absolute;
+	bottom: 50px;
+	right: 10px;
 }
 

@@ -1,1 +1,1 @@
-<view class="videoPlayer"><video class="video" controls loop="{{true}}" src="{{video.src}}"></video></view>
+<view class="videoPlayer"><video class="video" id="myVideo" controls loop="{{true}}" src="{{video.src}}" data-event-opts="{{[['tap',[['click',['$event']]]]]}}" bindtap="__e"></video></view>

@@ -1,1 +1,1 @@
-<view class="content"><first-nav vue-id="1" bind:__l="__l"></first-nav><video-list vue-id="2" list="{{list}}" bind:__l="__l"></video-list><tab vue-id="3" bind:__l="__l"></tab></view>
+<view class="content"><tab vue-id="1" bind:__l="__l"></tab><video-list vue-id="2" list="{{list}}" bind:__l="__l"></video-list><first-nav vue-id="3" bind:__l="__l"></first-nav></view>

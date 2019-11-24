@@ -7,7 +7,7 @@
 		"urlCheck": false
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.7.0",
+	"libVersion": "",
 	"appid": "touristappid",
 	"projectname": "一念",
 	"simulatorType": "wechat",
